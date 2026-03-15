@@ -5,8 +5,10 @@ from a REST API, demonstrating real-world iOS networking patterns.
 
 ## Screenshots
 
-
+￼
+￼
 ## Features
+
 - Browse a list of posts fetched from a live API
 - Tap any post to see its full content
 - Comments load dynamically per post
@@ -47,4 +49,3 @@ No API key required.
 3. Hit Run — no setup needed
 ```
 
----
